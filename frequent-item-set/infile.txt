@@ -1,0 +1,5 @@
+4
+beer, screws, hammer
+saw, lugnuts
+beer, screws, hammer, lugnuts
+beer, screws, hammer, router
